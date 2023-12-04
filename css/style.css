@@ -1,0 +1,14 @@
+.gradient {
+    height: 35-px;
+    background-color: white; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom, rgb(246, 211, 106) , white);
+}
+
+.col-lg-4.col-sm-12.mb-4 {
+    text-align: center;
+}
+
+#footer, #header {
+    background-color: rgb(246, 211, 106);
+}
+
